@@ -1,2 +1,3 @@
-2026/05/05-19:53:43.327 bc8 Creating DB C:\Users\marcu\Desktop\JavaDAO\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Sync Data\LevelDB since it was missing.
-2026/05/05-19:53:43.362 bc8 Reusing MANIFEST C:\Users\marcu\Desktop\JavaDAO\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Sync Data\LevelDB/MANIFEST-000001
+2026/05/05-19:53:58.499 2a64 Reusing MANIFEST C:\Users\marcu\Desktop\JavaDAO\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Sync Data\LevelDB/MANIFEST-000001
+2026/05/05-19:53:58.500 2a64 Recovering log #3
+2026/05/05-19:53:58.501 2a64 Reusing old log C:\Users\marcu\Desktop\JavaDAO\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Sync Data\LevelDB/000003.log 
